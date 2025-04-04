@@ -583,6 +583,14 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <section className="bg-gray-900/80 py-4">
+        <div className="text-center">
+          <p className="text-white text-sm md:text-base">
+            © 2025 Rasagna Uppula. All rights reserved.
+          </p>
+        </div>
+      </section>
     </main>
   );
 }
