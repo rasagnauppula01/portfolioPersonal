@@ -81,7 +81,7 @@ export default function Home() {
         [text-shadow:0px_0px_14px_rgb(57,255,20)] transition-all duration-300 
         hover:bg-white/10 hover:rounded-lg relative overflow-hidden group"
             >
-              <span className="relative z-10">Home</span>
+              <span className="relative z-10">About</span>
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-green-400 to-blue-500 transition-all duration-300 group-hover:w-full"></span>
             </a>
           </li>
