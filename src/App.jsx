@@ -22,7 +22,8 @@ import {
 } from "react-icons/si";
 
 import IMG from "./assets/images/image.jpg";
-import RESUME from "./assets/images/resume.pdf";
+import RESUME from "./assets/images/newResume.pdf";
+
 
 export default function Home() {
   const [navVisible, setNavVisible] = useState(false);
@@ -594,3 +595,5 @@ export default function Home() {
     </main>
   );
 }
+
+
