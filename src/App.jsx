@@ -299,7 +299,7 @@ export default function Home() {
                 <div className="flex items-center">
                   <span className="text-gray-300 font-medium">From:</span>
                   <span className="ml-2 text-white font-semibold">
-                    Jan 2025 - Present
+                    Jan 2025 - Apr 2025
                   </span>
                 </div>
               </div>
@@ -503,14 +503,14 @@ export default function Home() {
                   </span>
                 </div>
 
-                <div className="flex flex-col md:flex-row md:items-center p-1.5 hover:bg-gray-800 rounded-lg transition-colors duration-300">
+{/*                 <div className="flex flex-col md:flex-row md:items-center p-1.5 hover:bg-gray-800 rounded-lg transition-colors duration-300">
                   <span className="font-medium text-purple-300 w-20 text-sm md:text-base">
                     DOB:
                   </span>
                   <span className="text-base md:text-lg text-white">
                     28/03/2001
                   </span>
-                </div>
+                </div> */}
 
                 <div className="flex flex-col md:flex-row md:items-center p-1.5 hover:bg-gray-800 rounded-lg transition-colors duration-300">
                   <span className="font-medium text-purple-300 w-20 text-sm md:text-base">
